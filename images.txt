@@ -1,1 +1,2 @@
 amilys/embyserver
+jxxghp/moviepilot
