@@ -2,3 +2,12 @@ amilys/embyserver
 jxxghp/moviepilot
 haroldli/xiaoya-tvbox
 xiaoyaliu/alist
+iyuucn/iyuuplus-dev
+johngong/calibre-web
+nyanmisaka/jellyfin
+hsuyelin/nas-tools
+linuxserver/transmission
+ccf2012/seedcross
+containrrr/watchtower
+crazyq/pt_helper
+lswl/vertex
