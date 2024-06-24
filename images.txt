@@ -1,2 +1,4 @@
 amilys/embyserver
 jxxghp/moviepilot
+haroldli/xiaoya-tvbox
+xiaoyaliu/alist
