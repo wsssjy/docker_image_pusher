@@ -1,1 +1,1 @@
-nextcloud
+linuxserver/nextcloud
