@@ -1,1 +1,1 @@
-linuxserver/nextcloud
+lscr.io/linuxserver/nextcloud
